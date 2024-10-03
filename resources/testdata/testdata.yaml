@@ -1,12 +1,12 @@
-email: Ab.stopbus+1@gmail.com
-valid_password: Password123!
+email: 066911914057@gmail.com
+valid_password: Password666!
 invalid_password: Password456!
 
 
-email_register: armychawakorn@gmail.com
-firstname_register: Army
-lastname_register: Chawakorn
-phone_register: 0842979685
+email_register: naritsarashop@gmail.com
+firstname_register: Naritsara
+lastname_register: Wongbutsri
+phone_register: 0618151175
 password_register: Password123
-confirm_password_register: Password123
+confirm_password_register: Password666
 wrong_confirm_password_register: Password456
